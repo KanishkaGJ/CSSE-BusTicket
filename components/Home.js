@@ -49,12 +49,12 @@ export default function Home() {
               style={{ width: 120, height: 120 }}
             />
           </View>
-          <View style={styles.textContainer}>
+         <View style={styles.textContainer}>
             <Text style={styles.smallRectangleText}>My Credit</Text>
             <Text style={styles.smallRectanglePara}>
               Check your credit {"\n"}balance and top up
             </Text>
-          </View>
+          </View> 
         </View>
         <View style={styles.smallRectangle}>
           <View style={styles.imageContainer}>
